@@ -1,0 +1,13 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">ViewPagerTest</string>
+    <string name="fragment_state_pager">Fragment State Pager</string>
+    <string name="fragment_pager">Fragment Pager</string>
+    <string name="question_for_waiter">¿Que puntuación le daria al mesero que lo atendió?</string>
+    <string name="question_for_food"> ¿Que puntuación le daria a la comida que ordeno?</string>
+    <string name="question_for_restaurant"> ¿Que puntuación le daria al restaurante (instalaciones)?</string>
+    <string name="hello_world">Hola mundo</string>
+    <string name="first">First</string>
+    <string name="last">Last</string>
+</resources>
